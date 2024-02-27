@@ -1,4 +1,4 @@
-# Dessert Receipes App
+# Dessert Recipes App
 
 ## Description
 This Flutter project allows users to browse dessert recipes using the provided API endpoints. It displays a list of dessert recipes and allows users to view detailed information about each recipe.
