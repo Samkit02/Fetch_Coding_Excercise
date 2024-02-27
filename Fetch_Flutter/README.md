@@ -39,3 +39,20 @@ This Flutter project allows users to browse dessert recipes using the provided A
 
    ```bash
    flutter run
+
+## App Features
+1. Browse dessert recipes from the MealDB API.
+2. View recipe details including instructions and ingredients.
+3. Navigate between recipe list and details screens.
+
+# Screenshots
+
+## Android
+<img src="https://github.com/Samkit02/Fetch_Coding_Excercise/assets/45647688/7f481792-361f-4c60-adb0-94ebbd6ba32e" width="300">
+<img src="https://github.com/Samkit02/Fetch_Coding_Excercise/assets/45647688/b452d7c3-6882-4ef1-9ad6-d30237a2fc8a" width="300">
+
+## IOS
+<img src="https://github.com/Samkit02/Fetch_Coding_Excercise/assets/45647688/67975487-73f2-4f53-a6d0-290d07a2d2d2" width="300">
+<img src="https://github.com/Samkit02/Fetch_Coding_Excercise/assets/45647688/2bbfc2fb-4a86-4e4a-9313-e03d776e18e3" width="300">
+
+
